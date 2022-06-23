@@ -1,16 +1,14 @@
 let fs = require('fs')
 let handler = async (m, { conn }) => {
 let teks = 'DONATE BOT'
-let dana = global.dana
-let pulsa = global.pulsa
-let gopay = global.gopay
+let umobile = global.umobile
+let touchandgoewallet = global.touchandgoewallet
 let numberowner = global.numberowner
 let anu = `Hallo mypren 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├ Dana : ${dana}
-├ Pulsa : ${pulsa}
-├ Gopay : ${gopay}
+├ Dana : ${umobile}
+├ Pulsa : ${touchandgoewallet}
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 
