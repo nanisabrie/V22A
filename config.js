@@ -5,21 +5,20 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = ['6285822347348'] 
-global.prems = ['6285822347348'] 
+global.owner = ['601161739141'] 
+global.mods = ['601161739141'] 
+global.prems = ['601161739141'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
-global.numberowner = '6285822347348'
+global.nameowner = 'Owner'
+global.numberowner = '601161739141'
 global.instagram = 'https://instagram.com/sahrulwara_____'
 global.github = 'https://github.com/warikrr'
-global.dana = '085822347348'
-global.pulsa = '085822347348'
-global.gopay = ''
+global.umobile = '01161739141'
+global.touchandgoewallet = '1161739141'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'AsunaBotz'
 global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
 global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://saweria.co/arullOfc'
@@ -30,10 +29,10 @@ global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻ArullBotz𝙼𝙳'
+global.wm = 'Asuna'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ArullOfc ×፝֟͜×'
-global.wm3 = 'ᯤ Arull𝙾𝙵𝙲'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 AsunaBotz'
+global.wm3 = 'ᯤ Asuna'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
@@ -44,7 +43,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@ArullOfc✵'
+global.author = '@Asuna'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
